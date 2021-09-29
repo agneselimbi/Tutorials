@@ -5,14 +5,11 @@ This is a repository of self learning projects that will help me improve my skil
       Exploratory Data Analysis
       
      Mini Project 1 : Walmart challenge 
-     
+what did I learn with this challenge      
      Mini Project 2 : Titanic challenge 
-     
-     Mini Project 3:    
-     Mini Project 2 : PCA Analysis 
-     
-     
-    Gis Project with Python
-      Map creation
-      Using functions to get data from gis files 
-      
+What did I learn with this challenge
+Random forest
+Feature extraction 
+Next steps
+    Mini Project 3  : Data Visualisation Project (Covid visualization numbers in Cameroon)
+Visualisation of 
